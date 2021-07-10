@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mat_1", "Mat_1\Mat_1.csproj", "{DBDB28B4-8C64-48F1-A443-3E9A0F340A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDB28B4-8C64-48F1-A443-3E9A0F340A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDB28B4-8C64-48F1-A443-3E9A0F340A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDB28B4-8C64-48F1-A443-3E9A0F340A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDB28B4-8C64-48F1-A443-3E9A0F340A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C22D43E4-C7B3-4435-A452-3B4F8F88C59D}
+	EndGlobalSection
+EndGlobal

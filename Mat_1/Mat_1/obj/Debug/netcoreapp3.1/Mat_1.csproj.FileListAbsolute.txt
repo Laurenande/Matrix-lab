@@ -1,0 +1,13 @@
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\bin\Debug\netcoreapp3.1\Mat_1.exe
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\bin\Debug\netcoreapp3.1\Mat_1.deps.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\bin\Debug\netcoreapp3.1\Mat_1.runtimeconfig.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\bin\Debug\netcoreapp3.1\Mat_1.runtimeconfig.dev.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\bin\Debug\netcoreapp3.1\Mat_1.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\bin\Debug\netcoreapp3.1\Mat_1.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.csprojAssemblyReference.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.AssemblyInfoInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.AssemblyInfo.cs
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.csproj.CoreCompileInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\Mat_1\Mat_1\obj\Debug\netcoreapp3.1\Mat_1.genruntimeconfig.cache

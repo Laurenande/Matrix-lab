@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mat_2", "Mat_2\Mat_2.csproj", "{3E945211-5226-4806-B6B0-DC24BEB4A956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E945211-5226-4806-B6B0-DC24BEB4A956}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E945211-5226-4806-B6B0-DC24BEB4A956}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E945211-5226-4806-B6B0-DC24BEB4A956}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E945211-5226-4806-B6B0-DC24BEB4A956}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3359551C-03EB-41D4-B3D8-09FB906A0A32}
+	EndGlobalSection
+EndGlobal
