@@ -1,0 +1,13 @@
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\bin\Debug\netcoreapp3.1\MatEkz.exe
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\bin\Debug\netcoreapp3.1\MatEkz.deps.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\bin\Debug\netcoreapp3.1\MatEkz.runtimeconfig.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\bin\Debug\netcoreapp3.1\MatEkz.runtimeconfig.dev.json
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\bin\Debug\netcoreapp3.1\MatEkz.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\bin\Debug\netcoreapp3.1\MatEkz.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.csprojAssemblyReference.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.AssemblyInfoInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.AssemblyInfo.cs
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.csproj.CoreCompileInputs.cache
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.dll
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.pdb
+C:\Users\Laurenande\Desktop\Study\Уник\Программы\Матрицы\MatEkz\MatEkz\obj\Debug\netcoreapp3.1\MatEkz.genruntimeconfig.cache
